@@ -3,6 +3,12 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"IOS",
 		"Android",
