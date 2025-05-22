@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Crumpet_Set/Crumpet_DataTable.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/GoldenGator_DataTable.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Robert_DataTable.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Tizzard_DataTable.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Crumpet_Set/Textures/CardBacking.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Crumpet_Set/Textures/CardDesign2.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Crumpet_Set/Textures/crumpet.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Enums/Gameplay_Enums/CardSet_Enum.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/FunctionLibraries/Deck_FunctionLibrary.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Widgets/Gameplay/CardManager.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Maps/MainMenu.umap",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Gameplay/3DCard.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/FunctionLibraries/Card_FunctionLibrary.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardBacking.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardBacking.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardBacking.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign2.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign2.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign2.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign_Blank.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign_Blank.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign_Blank.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign_Green.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign_Green.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign_Green.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign_Purple.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign_Purple.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign_Purple.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/CardDesign_Yellow.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Tizzard_Set/Textures/CardDesign_Yellow.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/GoldenGator_Set/Textures/CardDesign_Yellow.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGameAI/AIBlueprints/CardGameAIController.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/CardGamePlayerController.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Widgets/Menu/DeckBuilder/DeckBuilder.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Widgets/Menu/DeckBuilder/DeckBuilder_CardSetButton.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/Blueprints/Widgets/Menu/DeckSelectionMenu.uasset",
+				"C:/Users/cluel/Documents/Unreal Projects/GoldenGatorTCG/Content/CCGToolkit/CardGame/CardSets/Robert_Set/Textures/kate.uasset"
+			]
+		}
+	]
+}
